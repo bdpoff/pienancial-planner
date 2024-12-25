@@ -1,0 +1,54 @@
+{
+  "income": 100,
+  "categories": [
+    {
+      "name": "Housing",
+      "emoji": "1f3e0",
+      "color": "#616161",
+      "budget": 30,
+      "active": false
+    },
+    {
+      "name": "Transportation",
+      "emoji": "1f697",
+      "color": "#1976D2",
+      "budget": 15,
+      "active": false      
+    },
+    {
+      "name": "Food",
+      "emoji": "1f354",
+      "color": "#00796B",
+      "budget": 10,
+      "active": false
+    },
+    {
+      "name": "Utilities",
+      "emoji": "1f4a1",
+      "color": "#FBC02D",
+      "budget": 10,
+      "active": false
+    },
+    {
+      "name": "Healthcare",
+      "emoji": "1f3e5",
+      "color": "#D32F2F",
+      "budget": 5,
+      "active": false      
+    },
+    {
+      "name": "Savings",
+      "emoji": "1f4b5",
+      "color": "#388E3C",
+      "budget": 15,
+      "active": false      
+    },
+    {
+      "name": "Fun",
+      "emoji": "1f3ae",
+      "color": "#7B1FA2",
+      "budget": 10,
+      "active": false      
+    }
+  ]
+}
