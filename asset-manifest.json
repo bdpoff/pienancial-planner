@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pienancial-planner/static/css/main.e6c13ad2.css",
+    "main.js": "/pienancial-planner/static/js/main.10110606.js",
+    "static/js/213.67cc455b.chunk.js": "/pienancial-planner/static/js/213.67cc455b.chunk.js",
+    "static/js/455.9b089384.chunk.js": "/pienancial-planner/static/js/455.9b089384.chunk.js",
+    "index.html": "/pienancial-planner/index.html",
+    "main.e6c13ad2.css.map": "/pienancial-planner/static/css/main.e6c13ad2.css.map",
+    "main.10110606.js.map": "/pienancial-planner/static/js/main.10110606.js.map",
+    "213.67cc455b.chunk.js.map": "/pienancial-planner/static/js/213.67cc455b.chunk.js.map",
+    "455.9b089384.chunk.js.map": "/pienancial-planner/static/js/455.9b089384.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.10110606.js"
+  ]
+}
